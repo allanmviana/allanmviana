@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+# Hello, folks! <img src="https://github.com/allanmviana/allanmviana/blob/main/img/money.gif" width="30px">
+
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=allanmviana)](https://github.com/allanmviana/github-readme-stats)
 <!--
