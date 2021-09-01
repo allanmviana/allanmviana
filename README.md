@@ -1,8 +1,9 @@
 # Welcome to `/allanmviana`!
 
 ## About Me
-I'm a **brazilian 🇧🇷 economist 💲,** **Python Programmer** <img src="https://github.com/allanmviana/allanmviana/blob/main/img/python.svg" width="20px"> and **Business Analyst 📊**. I really love Data Analysis, Tech, Innovation and Open Source Software.
+I'm a **brazilian economist 💲,** **Python Programmer** <img src="https://github.com/allanmviana/allanmviana/blob/main/img/python.svg" width="15px"> and **Business Analyst 📊**. I really enjoy Data Analysis, Tech, Innovation and Open Source Software.
 
+You can also find me at
 [<img src="https://github.com/allanmviana/allanmviana/blob/main/img/Slide1.PNG" width="20px">](https://www.linkedin.com/in/allanmviana/)
 [<img src="https://github.com/allanmviana/allanmviana/blob/main/img/Slide2.PNG" width="20px">](https://www.linkedin.com/in/allanmviana/)
 
