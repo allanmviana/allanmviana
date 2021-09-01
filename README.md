@@ -1,6 +1,16 @@
-### Hi there 👋
+# Welcome to `/allanmviana`!
 
-# Hello, folks! <img src="https://github.com/allanmviana/allanmviana/blob/main/img/money.gif" width="30px">
+## About Me
+I'm a **brazilian 🇧🇷 economist 💲,** **Python Programmer 🐍** and **Business Analyst 📊**. I really love Data Analysis, Tech, Innovation and Open Source Software.
+
+[<img src="https://github.com/allanmviana/allanmviana/blob/main/img/Slide1.PNG" width="20px">](https://www.linkedin.com/in/allanmviana/)
+[<img src="https://github.com/allanmviana/allanmviana/blob/main/img/Slide2.PNG" width="20px">](https://www.linkedin.com/in/allanmviana/)
+
+## What you will find here
+I'm not a full time programmer. I'm interessed in analising data to better understand the world. Here you will find some small projects I've worked  (some serious and others just for fun).
+
+## What I'm trying to achieve
+I am learning Python to improve my data and business analysis. I really like business innovations and new tech products. In general, my analysis are about things I'm just curious about
 
 
 
