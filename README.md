@@ -2,6 +2,7 @@
 
 ## About Me
 I'm a **brazilian economist 💲,** **Python Programmer** <img src="https://github.com/allanmviana/allanmviana/blob/main/img/python.svg" width="15px"> and **Business Analyst 📊**. I really enjoy Data Analysis, Tech, Innovation and Open Source Software.
+I'm not a full time programmer. I'm interessed in analising data to better understand the world.
 
 You can also find me at
 
@@ -9,7 +10,7 @@ You can also find me at
 [<img src="https://github.com/allanmviana/allanmviana/blob/main/img/Slide2.PNG" width="20px">](https://medium.com/@allanmviana)
 
 ## What you will find here
-I'm not a full time programmer. I'm interessed in analising data to better understand the world. Here you will find some small projects I've worked  (some serious and others just for fun).
+Here you will find some small projects I've worked  (some serious and others just for fun).
 
 ## What I'm trying to achieve
 I am learning Python to improve my data and business analysis. I really like business innovations and new tech products. In general, my analysis are about things I'm just curious about
