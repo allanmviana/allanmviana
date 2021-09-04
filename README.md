@@ -1,18 +1,17 @@
 # Welcome to `/allanmviana`!
 
 ## About Me
-### I'm a **brazilian economist 💲,** **Python Programmer** <img src="https://github.com/allanmviana/allanmviana/blob/main/img/python.svg" width="15px"> and **Business Analyst 📊**. I'm into Data Analysis, Tech, Innovation and Open Source Software.
-I'm not a full time programmer. I'm interessed in analising data to better understand the world.
+#### I'm a **brazilian economist 💲,** **Python Programmer** <img src="https://github.com/allanmviana/allanmviana/blob/main/img/python.svg" width="15px"> and **Business Analyst 📊**. I'm interessed in analising data to better understand the world.
 You can also find me at
 
 [<img src="https://github.com/allanmviana/allanmviana/blob/main/img/Slide1.PNG" width="25px">](https://www.linkedin.com/in/allanmviana/)
 [<img src="https://github.com/allanmviana/allanmviana/blob/main/img/Slide2.PNG" width="25px">](https://medium.com/@allanmviana)
 
 ## What you will find here
-Here you will find some small projects I've worked  (some serious and others just for fun).
+#### Here you will find some small projects I've worked  (some serious and others just for fun). All of them are just by curiosity. I am exploring and digging the world, and here are my tools.
 
 ## What I'm trying to achieve
-I am learning Python to improve my data and business analysis. I really like business innovations and new tech products. In general, my analysis are about things I'm just curious about
+#### I am learning Python to improve my data and business analysis. I want to be able to read data more easily, beaitifully and make better decision. 
 
 
 
