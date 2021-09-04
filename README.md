@@ -14,7 +14,7 @@ Here you will find some small projects I've worked  (some serious and others jus
 ## What I'm trying to achieve
 I am learning Python to improve my data and business analysis. I want to be able to read data more easily, beaitifully and make better decision. 
 
-
+## My Github status:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=allanmviana&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/allanmviana/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=allanmviana&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/allanmviana/github-readme-stats)
