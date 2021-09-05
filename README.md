@@ -1,7 +1,7 @@
 # Welcome to `/allanmviana`!
 
 ## About Me
-I'm a **Business Analyst 📊**, **Data Explorer** **Python Programmer** <img src="https://github.com/allanmviana/allanmviana/blob/main/img/python.svg" width="15px"> and . I'm interessed in analising data to better understand the world.
+I'm a **Business Analyst 📊**, **Data Explorer** and **Python Programmer** <img src="https://github.com/allanmviana/allanmviana/blob/main/img/python.svg" width="15px"> and . I'm interessed in analising data to better understand the world.
 
 You can also find me at
 
